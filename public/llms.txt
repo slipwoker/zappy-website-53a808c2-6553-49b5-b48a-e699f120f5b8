@@ -1,0 +1,53 @@
+# מילכי רוטנר — Generative Engine Optimization Map
+
+> A יופי וקוסמטיקה business.
+
+---
+
+## Pages
+
+### Home
+https://-53a808c2.zappy5.app
+
+### Services
+https://-53a808c2.zappy5.app/services
+
+### Pricing
+https://-53a808c2.zappy5.app/pricing
+
+### Contact
+https://-53a808c2.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-53a808c2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-53a808c2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-53a808c2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מילכי רוטנר
+מילכי רוטנר is a business in the יופי וקוסמטיקה industry.
+
+## Target Audience
+לקוחות פרטיים המעוניינים בשירותי איפור
+
+## Industry
+יופי וקוסמטיקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-53a808c2.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-53a808c2.zappy5.app/robots.txt
