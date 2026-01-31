@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# מילכי רוטנר — Generative Engine Optimization Map
+
+> A יופי וקוסמטיקה business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://milki-rotner.zappy5.app
 
 ### Services
-https://example.com/services
+https://milki-rotner.zappy5.app/services
 
 ### Pricing
-https://example.com/pricing
+https://milki-rotner.zappy5.app/pricing
 
 ### Contact
-https://example.com/contact
+https://milki-rotner.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://milki-rotner.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://milki-rotner.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://milki-rotner.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מילכי רוטנר
+מילכי רוטנר is a business in the יופי וקוסמטיקה industry.
+
+## Target Audience
+לקוחות פרטיים המעוניינים בשירותי איפור
+
+## Industry
+יופי וקוסמטיקה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://milki-rotner.zappy5.app/sitemap.xml
+- **Robots.txt**: https://milki-rotner.zappy5.app/robots.txt
