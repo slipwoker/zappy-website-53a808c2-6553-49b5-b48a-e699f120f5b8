@@ -1,6 +1,4 @@
-# מילכי רוטנר — Generative Engine Optimization Map
-
-> A יופי וקוסמטיקה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מילכי רוטנר
-מילכי רוטנר is a business in the יופי וקוסמטיקה industry.
-
-## Target Audience
-לקוחות פרטיים המעוניינים בשירותי איפור
-
-## Industry
-יופי וקוסמטיקה
-
+## About Business
 ---
 
 # Additional Resources
